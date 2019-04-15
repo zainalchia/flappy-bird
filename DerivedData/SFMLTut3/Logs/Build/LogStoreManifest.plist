@@ -1,0 +1,331 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>logFormatVersion</key>
+	<integer>10</integer>
+	<key>logs</key>
+	<dict>
+		<key>492A3633-068D-4266-B6D5-8953FED132AD</key>
+		<dict>
+			<key>className</key>
+			<string>IDEActivityLogSection</string>
+			<key>documentTypeString</key>
+			<string>&lt;nil&gt;</string>
+			<key>domainType</key>
+			<string>Xcode.IDEActivityLogDomainType.BuildLog</string>
+			<key>fileName</key>
+			<string>492A3633-068D-4266-B6D5-8953FED132AD.xcactivitylog</string>
+			<key>primaryObservable</key>
+			<dict>
+				<key>highLevelStatus</key>
+				<string>W</string>
+			</dict>
+			<key>schemeIdentifier-containerName</key>
+			<string>SFMLTut3 project</string>
+			<key>schemeIdentifier-schemeName</key>
+			<string>SFMLTut3</string>
+			<key>schemeIdentifier-sharedScheme</key>
+			<integer>1</integer>
+			<key>signature</key>
+			<string>Build SFMLTut3</string>
+			<key>timeStartedRecording</key>
+			<real>576988479.85073495</real>
+			<key>timeStoppedRecording</key>
+			<real>576988480.01083899</real>
+			<key>title</key>
+			<string>Build SFMLTut3</string>
+			<key>uniqueIdentifier</key>
+			<string>492A3633-068D-4266-B6D5-8953FED132AD</string>
+		</dict>
+		<key>55BBB17E-38E0-4D81-8BFB-9E9220FA904E</key>
+		<dict>
+			<key>className</key>
+			<string>IDEActivityLogSection</string>
+			<key>documentTypeString</key>
+			<string>&lt;nil&gt;</string>
+			<key>domainType</key>
+			<string>Xcode.IDEActivityLogDomainType.BuildLog</string>
+			<key>fileName</key>
+			<string>55BBB17E-38E0-4D81-8BFB-9E9220FA904E.xcactivitylog</string>
+			<key>primaryObservable</key>
+			<dict>
+				<key>highLevelStatus</key>
+				<string>W</string>
+			</dict>
+			<key>schemeIdentifier-containerName</key>
+			<string>SFMLTut3 project</string>
+			<key>schemeIdentifier-schemeName</key>
+			<string>SFMLTut3</string>
+			<key>schemeIdentifier-sharedScheme</key>
+			<integer>1</integer>
+			<key>signature</key>
+			<string>Build SFMLTut3</string>
+			<key>timeStartedRecording</key>
+			<real>576989331.156093</real>
+			<key>timeStoppedRecording</key>
+			<real>576989337.06166601</real>
+			<key>title</key>
+			<string>Build SFMLTut3</string>
+			<key>uniqueIdentifier</key>
+			<string>55BBB17E-38E0-4D81-8BFB-9E9220FA904E</string>
+		</dict>
+		<key>5EECC376-7C4B-41DC-8B4A-436A83B58B35</key>
+		<dict>
+			<key>className</key>
+			<string>IDEActivityLogSection</string>
+			<key>documentTypeString</key>
+			<string>&lt;nil&gt;</string>
+			<key>domainType</key>
+			<string>Xcode.IDEActivityLogDomainType.BuildLog</string>
+			<key>fileName</key>
+			<string>5EECC376-7C4B-41DC-8B4A-436A83B58B35.xcactivitylog</string>
+			<key>primaryObservable</key>
+			<dict>
+				<key>highLevelStatus</key>
+				<string>W</string>
+			</dict>
+			<key>schemeIdentifier-containerName</key>
+			<string>SFMLTut3 project</string>
+			<key>schemeIdentifier-schemeName</key>
+			<string>SFMLTut3</string>
+			<key>schemeIdentifier-sharedScheme</key>
+			<integer>1</integer>
+			<key>signature</key>
+			<string>Build SFMLTut3</string>
+			<key>timeStartedRecording</key>
+			<real>576988350.38299</real>
+			<key>timeStoppedRecording</key>
+			<real>576988350.50147402</real>
+			<key>title</key>
+			<string>Build SFMLTut3</string>
+			<key>uniqueIdentifier</key>
+			<string>5EECC376-7C4B-41DC-8B4A-436A83B58B35</string>
+		</dict>
+		<key>6CF8AE89-C65F-462B-B31D-D22EED60E15A</key>
+		<dict>
+			<key>className</key>
+			<string>IDEActivityLogSection</string>
+			<key>documentTypeString</key>
+			<string>&lt;nil&gt;</string>
+			<key>domainType</key>
+			<string>Xcode.IDEActivityLogDomainType.BuildLog</string>
+			<key>fileName</key>
+			<string>6CF8AE89-C65F-462B-B31D-D22EED60E15A.xcactivitylog</string>
+			<key>primaryObservable</key>
+			<dict>
+				<key>highLevelStatus</key>
+				<string>W</string>
+			</dict>
+			<key>schemeIdentifier-containerName</key>
+			<string>SFMLTut3 project</string>
+			<key>schemeIdentifier-schemeName</key>
+			<string>SFMLTut3</string>
+			<key>schemeIdentifier-sharedScheme</key>
+			<integer>1</integer>
+			<key>signature</key>
+			<string>Build SFMLTut3</string>
+			<key>timeStartedRecording</key>
+			<real>576988491.89266706</real>
+			<key>timeStoppedRecording</key>
+			<real>576988491.99455905</real>
+			<key>title</key>
+			<string>Build SFMLTut3</string>
+			<key>uniqueIdentifier</key>
+			<string>6CF8AE89-C65F-462B-B31D-D22EED60E15A</string>
+		</dict>
+		<key>6DD05D42-9207-4E87-8B70-53FCB4B6F25C</key>
+		<dict>
+			<key>className</key>
+			<string>IDEActivityLogSection</string>
+			<key>documentTypeString</key>
+			<string>&lt;nil&gt;</string>
+			<key>domainType</key>
+			<string>Xcode.IDEActivityLogDomainType.BuildLog</string>
+			<key>fileName</key>
+			<string>6DD05D42-9207-4E87-8B70-53FCB4B6F25C.xcactivitylog</string>
+			<key>primaryObservable</key>
+			<dict>
+				<key>highLevelStatus</key>
+				<string>E</string>
+			</dict>
+			<key>schemeIdentifier-containerName</key>
+			<string>SFMLTut3 project</string>
+			<key>schemeIdentifier-schemeName</key>
+			<string>SFMLTut3</string>
+			<key>schemeIdentifier-sharedScheme</key>
+			<integer>1</integer>
+			<key>signature</key>
+			<string>Build SFMLTut3</string>
+			<key>timeStartedRecording</key>
+			<real>576773177.67879605</real>
+			<key>timeStoppedRecording</key>
+			<real>576773178.07838595</real>
+			<key>title</key>
+			<string>Build SFMLTut3</string>
+			<key>uniqueIdentifier</key>
+			<string>6DD05D42-9207-4E87-8B70-53FCB4B6F25C</string>
+		</dict>
+		<key>6E297668-CBA2-4FBA-8ECC-6D6B5B932621</key>
+		<dict>
+			<key>className</key>
+			<string>IDEActivityLogSection</string>
+			<key>documentTypeString</key>
+			<string>&lt;nil&gt;</string>
+			<key>domainType</key>
+			<string>Xcode.IDEActivityLogDomainType.BuildLog</string>
+			<key>fileName</key>
+			<string>6E297668-CBA2-4FBA-8ECC-6D6B5B932621.xcactivitylog</string>
+			<key>primaryObservable</key>
+			<dict>
+				<key>highLevelStatus</key>
+				<string>W</string>
+			</dict>
+			<key>schemeIdentifier-containerName</key>
+			<string>SFMLTut3 project</string>
+			<key>schemeIdentifier-schemeName</key>
+			<string>SFMLTut3</string>
+			<key>schemeIdentifier-sharedScheme</key>
+			<integer>1</integer>
+			<key>signature</key>
+			<string>Build SFMLTut3</string>
+			<key>timeStartedRecording</key>
+			<real>576988329.24437499</real>
+			<key>timeStoppedRecording</key>
+			<real>576988337.89752102</real>
+			<key>title</key>
+			<string>Build SFMLTut3</string>
+			<key>uniqueIdentifier</key>
+			<string>6E297668-CBA2-4FBA-8ECC-6D6B5B932621</string>
+		</dict>
+		<key>AA969FBF-BC94-4998-BDDC-1F5194C290BE</key>
+		<dict>
+			<key>className</key>
+			<string>IDEActivityLogSection</string>
+			<key>documentTypeString</key>
+			<string>&lt;nil&gt;</string>
+			<key>domainType</key>
+			<string>Xcode.IDEActivityLogDomainType.BuildLog</string>
+			<key>fileName</key>
+			<string>AA969FBF-BC94-4998-BDDC-1F5194C290BE.xcactivitylog</string>
+			<key>primaryObservable</key>
+			<dict>
+				<key>highLevelStatus</key>
+				<string>W</string>
+			</dict>
+			<key>schemeIdentifier-containerName</key>
+			<string>SFMLTut3 project</string>
+			<key>schemeIdentifier-schemeName</key>
+			<string>SFMLTut3</string>
+			<key>schemeIdentifier-sharedScheme</key>
+			<integer>1</integer>
+			<key>signature</key>
+			<string>Build SFMLTut3</string>
+			<key>timeStartedRecording</key>
+			<real>577003321.29987895</real>
+			<key>timeStoppedRecording</key>
+			<real>577003321.42387295</real>
+			<key>title</key>
+			<string>Build SFMLTut3</string>
+			<key>uniqueIdentifier</key>
+			<string>AA969FBF-BC94-4998-BDDC-1F5194C290BE</string>
+		</dict>
+		<key>D5435198-6A60-44C0-BA1F-C2AE13343735</key>
+		<dict>
+			<key>className</key>
+			<string>IDEActivityLogSection</string>
+			<key>documentTypeString</key>
+			<string>&lt;nil&gt;</string>
+			<key>domainType</key>
+			<string>Xcode.IDEActivityLogDomainType.BuildLog</string>
+			<key>fileName</key>
+			<string>D5435198-6A60-44C0-BA1F-C2AE13343735.xcactivitylog</string>
+			<key>primaryObservable</key>
+			<dict>
+				<key>highLevelStatus</key>
+				<string>W</string>
+			</dict>
+			<key>schemeIdentifier-containerName</key>
+			<string>SFMLTut3 project</string>
+			<key>schemeIdentifier-schemeName</key>
+			<string>SFMLTut3</string>
+			<key>schemeIdentifier-sharedScheme</key>
+			<integer>1</integer>
+			<key>signature</key>
+			<string>Build SFMLTut3</string>
+			<key>timeStartedRecording</key>
+			<real>576989474.59548795</real>
+			<key>timeStoppedRecording</key>
+			<real>576989475.84096396</real>
+			<key>title</key>
+			<string>Build SFMLTut3</string>
+			<key>uniqueIdentifier</key>
+			<string>D5435198-6A60-44C0-BA1F-C2AE13343735</string>
+		</dict>
+		<key>D8D15074-1F9F-4BB9-98E4-65C29241BC1D</key>
+		<dict>
+			<key>className</key>
+			<string>IDEActivityLogSection</string>
+			<key>documentTypeString</key>
+			<string>&lt;nil&gt;</string>
+			<key>domainType</key>
+			<string>Xcode.IDEActivityLogDomainType.BuildLog</string>
+			<key>fileName</key>
+			<string>D8D15074-1F9F-4BB9-98E4-65C29241BC1D.xcactivitylog</string>
+			<key>primaryObservable</key>
+			<dict>
+				<key>highLevelStatus</key>
+				<string>W</string>
+			</dict>
+			<key>schemeIdentifier-containerName</key>
+			<string>SFMLTut3 project</string>
+			<key>schemeIdentifier-schemeName</key>
+			<string>SFMLTut3</string>
+			<key>schemeIdentifier-sharedScheme</key>
+			<integer>1</integer>
+			<key>signature</key>
+			<string>Build SFMLTut3</string>
+			<key>timeStartedRecording</key>
+			<real>576989429.32644701</real>
+			<key>timeStoppedRecording</key>
+			<real>576989430.29385495</real>
+			<key>title</key>
+			<string>Build SFMLTut3</string>
+			<key>uniqueIdentifier</key>
+			<string>D8D15074-1F9F-4BB9-98E4-65C29241BC1D</string>
+		</dict>
+		<key>FE9A0273-0DEF-43A5-8ADC-429A3D708F91</key>
+		<dict>
+			<key>className</key>
+			<string>IDEActivityLogSection</string>
+			<key>documentTypeString</key>
+			<string>&lt;nil&gt;</string>
+			<key>domainType</key>
+			<string>Xcode.IDEActivityLogDomainType.BuildLog</string>
+			<key>fileName</key>
+			<string>FE9A0273-0DEF-43A5-8ADC-429A3D708F91.xcactivitylog</string>
+			<key>primaryObservable</key>
+			<dict>
+				<key>highLevelStatus</key>
+				<string>W</string>
+			</dict>
+			<key>schemeIdentifier-containerName</key>
+			<string>SFMLTut3 project</string>
+			<key>schemeIdentifier-schemeName</key>
+			<string>SFMLTut3</string>
+			<key>schemeIdentifier-sharedScheme</key>
+			<integer>1</integer>
+			<key>signature</key>
+			<string>Build SFMLTut3</string>
+			<key>timeStartedRecording</key>
+			<real>576988466.78789306</real>
+			<key>timeStoppedRecording</key>
+			<real>576988466.91643798</real>
+			<key>title</key>
+			<string>Build SFMLTut3</string>
+			<key>uniqueIdentifier</key>
+			<string>FE9A0273-0DEF-43A5-8ADC-429A3D708F91</string>
+		</dict>
+	</dict>
+</dict>
+</plist>
